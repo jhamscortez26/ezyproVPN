@@ -1,4 +1,4 @@
-## ezyproVPN
+# ezyproVPN
 
 # :scroll: About
 ### EzyproVPN is a secured shell tunnel.
